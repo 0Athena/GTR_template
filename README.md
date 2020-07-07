@@ -1,6 +1,6 @@
-# GTR Movies
+# GTR template
 
-A movie application with basic user CRUD and auth features - developed using React, Node, Express and MongoDB.
+A template application with basic user CRUD and auth features - developed using React, Node, Express and MongoDB.
 
 #### What you need to run this code
 1. Node (13.12.0)
